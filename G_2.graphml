@@ -185,7 +185,7 @@
   <data key="d3">26</data>
   <data key="d4">OOD</data>
   <data key="d5">CHILD CARE,FOOD SERVICE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1092">
   <data key="d0">No Test</data>
@@ -239,7 +239,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">WAITRESS</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4052">
   <data key="d0">No Test</data>
@@ -248,7 +248,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">QUALITY CONTROL INSPECTOR</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4053">
   <data key="d0">No Test</data>
@@ -500,7 +500,7 @@
   <data key="d3">51</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="51">
   <data key="d0">Positive</data>
@@ -545,7 +545,7 @@
   <data key="d3">35</data>
   <data key="d4">Freshman Col</data>
   <data key="d5">FORMER ASSEMBLER, PRO, UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="155">
   <data key="d0">Positive</data>
@@ -1328,7 +1328,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="352">
   <data key="d0">No Test</data>
@@ -1526,7 +1526,7 @@
   <data key="d3">38</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10219">
   <data key="d0">Negative</data>
@@ -1715,7 +1715,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="313">
   <data key="d0">Positive</data>
@@ -1733,7 +1733,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="476">
   <data key="d0">Negative</data>
@@ -2111,7 +2111,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4970">
   <data key="d0">No Test</data>
@@ -2156,7 +2156,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11383">
   <data key="d0">No Test</data>
@@ -2183,7 +2183,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11387">
   <data key="d0">No Test</data>
@@ -2471,7 +2471,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="279">
   <data key="d0">No Test</data>
@@ -2480,7 +2480,7 @@
   <data key="d3">17</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="290">
   <data key="d0">Negative</data>
@@ -2498,7 +2498,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="369">
   <data key="d0">No Test</data>
@@ -2516,7 +2516,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="842">
   <data key="d0">No Test</data>
@@ -2534,7 +2534,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2364">
   <data key="d0">No Test</data>
@@ -2570,7 +2570,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4746">
   <data key="d0">No Test</data>
@@ -2615,7 +2615,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">DIS/SSI</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5521">
   <data key="d0">No Test</data>
@@ -2651,7 +2651,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10946">
   <data key="d0">No Test</data>
@@ -2687,7 +2687,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12642">
   <data key="d0">No Test</data>
@@ -2696,7 +2696,7 @@
   <data key="d3">51</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12643">
   <data key="d0">No Test</data>
@@ -2768,7 +2768,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">BABYSITTER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13236">
   <data key="d0">No Test</data>
@@ -2804,7 +2804,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="391">
   <data key="d0">No Test</data>
@@ -2903,7 +2903,7 @@
   <data key="d3">36</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="75">
   <data key="d0">Negative</data>
@@ -2966,7 +2966,7 @@
   <data key="d3">29</data>
   <data key="d4">Freshman Col</data>
   <data key="d5">TELEMARKETER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1065">
   <data key="d0">No Test</data>
@@ -3029,7 +3029,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">THIEF</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3270">
   <data key="d0">No Test</data>
@@ -3434,7 +3434,7 @@
   <data key="d3">28</data>
   <data key="d4">High/GED</data>
   <data key="d5">PRINT SHOP, PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4133">
   <data key="d0">No Test</data>
@@ -3596,7 +3596,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="364">
   <data key="d0">Negative</data>
@@ -3668,7 +3668,7 @@
   <data key="d3">42</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="354">
   <data key="d0">No Test</data>
@@ -4028,7 +4028,7 @@
   <data key="d3">21</data>
   <data key="d4">OOD</data>
   <data key="d5">CLEANER, HOUSEWIFE, PRO*</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="177">
   <data key="d0">Positive</data>
@@ -4136,7 +4136,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">SOLDIER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3632">
   <data key="d0">No Test</data>
@@ -4145,7 +4145,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">SOLDIER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3633">
   <data key="d0">No Test</data>
@@ -4235,7 +4235,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1608">
   <data key="d0">No Test</data>
@@ -4784,7 +4784,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11806">
   <data key="d0">No Test</data>
@@ -5081,7 +5081,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2252">
   <data key="d0">No Test</data>
@@ -5135,7 +5135,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10894">
   <data key="d0">No Test</data>
@@ -5414,7 +5414,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5">GRAPHIC ARTIST</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2607">
   <data key="d0">No Test</data>
@@ -5549,7 +5549,7 @@
   <data key="d3">47</data>
   <data key="d4">Junior High</data>
   <data key="d5">EX-MAID, DISABILITY/SSI</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="633">
   <data key="d0">No Test</data>
@@ -5639,7 +5639,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12165">
   <data key="d0">No Test</data>
@@ -5756,7 +5756,7 @@
   <data key="d3">47</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="297">
   <data key="d0">No Test</data>
@@ -5873,7 +5873,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4615">
   <data key="d0">No Test</data>
@@ -5909,7 +5909,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10681">
   <data key="d0">No Test</data>
@@ -5954,7 +5954,7 @@
   <data key="d3">35</data>
   <data key="d4">Junior High</data>
   <data key="d5">STUDENT,HOUSKPNG,TLMRKTG,X-PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="272">
   <data key="d0">No Test</data>
@@ -6323,7 +6323,7 @@
   <data key="d3">68</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11574">
   <data key="d0">No Test</data>
@@ -6503,7 +6503,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11230">
   <data key="d0">No Test</data>
@@ -6539,7 +6539,7 @@
   <data key="d3">12</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12790">
   <data key="d0">No Test</data>
@@ -7025,7 +7025,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12621">
   <data key="d0">No Test</data>
@@ -7331,7 +7331,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">WAITRESS</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1519">
   <data key="d0">No Test</data>
@@ -7412,7 +7412,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">ASSISTANT MANAGER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1534">
   <data key="d0">No Test</data>
@@ -7511,7 +7511,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">HOME HEALTH AIDE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5526">
   <data key="d0">No Test</data>
@@ -7520,7 +7520,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5527">
   <data key="d0">No Test</data>
@@ -7619,7 +7619,7 @@
   <data key="d3">22</data>
   <data key="d4">Junior High</data>
   <data key="d5">MAINTENANCE, EX-EXOTIC DANCER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="407">
   <data key="d0">No Test</data>
@@ -8357,7 +8357,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">UNK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4481">
   <data key="d0">No Test</data>
@@ -8537,7 +8537,7 @@
   <data key="d3">69</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11723">
   <data key="d0">No Test</data>
@@ -8546,7 +8546,7 @@
   <data key="d3">52</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1028">
   <data key="d0">No Test</data>
@@ -8951,7 +8951,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="78">
   <data key="d0">Positive</data>
@@ -9041,7 +9041,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="377">
   <data key="d0">No Test</data>
@@ -9059,7 +9059,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">MAID</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3048">
   <data key="d0">No Test</data>
@@ -9068,7 +9068,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3049">
   <data key="d0">No Test</data>
@@ -9077,7 +9077,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3050">
   <data key="d0">No Test</data>
@@ -9086,7 +9086,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3051">
   <data key="d0">No Test</data>
@@ -9095,7 +9095,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3052">
   <data key="d0">No Test</data>
@@ -9104,7 +9104,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3053">
   <data key="d0">No Test</data>
@@ -9113,7 +9113,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3054">
   <data key="d0">No Test</data>
@@ -9122,7 +9122,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3055">
   <data key="d0">No Test</data>
@@ -9131,7 +9131,7 @@
   <data key="d3">17</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3056">
   <data key="d0">No Test</data>
@@ -9140,7 +9140,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3057">
   <data key="d0">No Test</data>
@@ -9149,7 +9149,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3058">
   <data key="d0">No Test</data>
@@ -9158,7 +9158,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11427">
   <data key="d0">No Test</data>
@@ -9194,7 +9194,7 @@
   <data key="d3">31</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="277">
   <data key="d0">No Test</data>
@@ -9392,7 +9392,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="307">
   <data key="d0">Positive</data>
@@ -9437,7 +9437,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">ASSEMBLER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1204">
   <data key="d0">No Test</data>
@@ -9446,7 +9446,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1610">
   <data key="d0">No Test</data>
@@ -9455,7 +9455,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3852">
   <data key="d0">No Test</data>
@@ -9482,7 +9482,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3860">
   <data key="d0">No Test</data>
@@ -9509,7 +9509,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5266">
   <data key="d0">No Test</data>
@@ -9518,7 +9518,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">TEACHER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5267">
   <data key="d0">No Test</data>
@@ -10022,7 +10022,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13297">
   <data key="d0">No Test</data>
@@ -10085,7 +10085,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">OWNER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="824">
   <data key="d0">Negative</data>
@@ -10094,7 +10094,7 @@
   <data key="d3">37</data>
   <data key="d4">Collage Grad</data>
   <data key="d5">DRYWALLER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="913">
   <data key="d0">Negative</data>
@@ -10148,7 +10148,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">DIS/SSI</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3834">
   <data key="d0">No Test</data>
@@ -10589,7 +10589,7 @@
   <data key="d3">49</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="318">
   <data key="d0">No Test</data>
@@ -10733,7 +10733,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE, WELFARE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3766">
   <data key="d0">No Test</data>
@@ -11201,7 +11201,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2106">
   <data key="d0">No Test</data>
@@ -11210,7 +11210,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2107">
   <data key="d0">No Test</data>
@@ -11435,7 +11435,7 @@
   <data key="d3">73</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10550">
   <data key="d0">No Test</data>
@@ -11948,7 +11948,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1780">
   <data key="d0">No Test</data>
@@ -12146,7 +12146,7 @@
   <data key="d3">54</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12497">
   <data key="d0">No Test</data>
@@ -12164,7 +12164,7 @@
   <data key="d3">62</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="111">
   <data key="d0">Positive</data>
@@ -12335,7 +12335,7 @@
   <data key="d3">38</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1515">
   <data key="d0">No Test</data>
@@ -12353,7 +12353,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10287">
   <data key="d0">No Test</data>
@@ -12380,7 +12380,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="317">
   <data key="d0">Positive</data>
@@ -12389,7 +12389,7 @@
   <data key="d3">29</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1175">
   <data key="d0">No Test</data>
@@ -12569,7 +12569,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3879">
   <data key="d0">No Test</data>
@@ -12623,7 +12623,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12067">
   <data key="d0">No Test</data>
@@ -12632,7 +12632,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12068">
   <data key="d0">No Test</data>
@@ -13181,7 +13181,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3644">
   <data key="d0">No Test</data>
@@ -14063,7 +14063,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">HOMEMAKER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1306">
   <data key="d0">No Test</data>
@@ -14234,7 +14234,7 @@
   <data key="d3">42</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12322">
   <data key="d0">No Test</data>
@@ -14270,7 +14270,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="144">
   <data key="d0">Negative</data>
@@ -14450,7 +14450,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12721">
   <data key="d0">No Test</data>
@@ -14468,7 +14468,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13306">
   <data key="d0">No Test</data>
@@ -14594,7 +14594,7 @@
   <data key="d3">80</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11290">
   <data key="d0">No Test</data>
@@ -14675,7 +14675,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">APARTMENT MANAGER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1660">
   <data key="d0">No Test</data>
@@ -14765,7 +14765,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10460">
   <data key="d0">No Test</data>
@@ -14792,7 +14792,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13321">
   <data key="d0">No Test</data>
@@ -15224,7 +15224,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">-9</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3658">
   <data key="d0">No Test</data>
@@ -15233,7 +15233,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">BARTENDER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3659">
   <data key="d0">No Test</data>
@@ -15512,7 +15512,7 @@
   <data key="d3">47</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10912">
   <data key="d0">No Test</data>
@@ -15521,7 +15521,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10913">
   <data key="d0">No Test</data>
@@ -15530,7 +15530,7 @@
   <data key="d3">66</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10914">
   <data key="d0">No Test</data>
@@ -15557,7 +15557,7 @@
   <data key="d3">8</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13283">
   <data key="d0">No Test</data>
@@ -15998,7 +15998,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3548">
   <data key="d0">No Test</data>
@@ -17213,7 +17213,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11909">
   <data key="d0">No Test</data>
@@ -17285,7 +17285,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11278">
   <data key="d0">No Test</data>
@@ -17357,7 +17357,7 @@
   <data key="d3">19</data>
   <data key="d4">High/GED</data>
   <data key="d5">RECEPTIONIST,PARTS,PRO,DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1280">
   <data key="d0">No Test</data>
@@ -17852,7 +17852,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5749">
   <data key="d0">No Test</data>
@@ -17942,7 +17942,7 @@
   <data key="d3">53</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10763">
   <data key="d0">No Test</data>
@@ -17951,7 +17951,7 @@
   <data key="d3">8</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="164">
   <data key="d0">Negative</data>
@@ -19211,7 +19211,7 @@
   <data key="d3">51</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="928">
   <data key="d0">Negative</data>
@@ -19796,7 +19796,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="920">
   <data key="d0">Negative</data>
@@ -19931,7 +19931,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10607">
   <data key="d0">No Test</data>
@@ -19940,7 +19940,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10608">
   <data key="d0">No Test</data>
@@ -19985,7 +19985,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3732">
   <data key="d0">No Test</data>
@@ -20084,7 +20084,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4205">
   <data key="d0">No Test</data>
@@ -20129,7 +20129,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11964">
   <data key="d0">No Test</data>
@@ -20174,7 +20174,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">ASSISTANT MANAGER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2198">
   <data key="d0">No Test</data>
@@ -20192,7 +20192,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">TAXI DISPATCHER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2200">
   <data key="d0">Negative</data>
@@ -22118,7 +22118,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">BARTENDER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3299">
   <data key="d0">No Test</data>
@@ -22244,7 +22244,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">CHILD CARE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5648">
   <data key="d0">No Test</data>
@@ -22316,7 +22316,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12963">
   <data key="d0">No Test</data>
@@ -22667,7 +22667,7 @@
   <data key="d3">52</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11007">
   <data key="d0">No Test</data>
@@ -23324,7 +23324,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">THIEF</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12131">
   <data key="d0">No Test</data>
@@ -23333,7 +23333,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12132">
   <data key="d0">No Test</data>
@@ -23342,7 +23342,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13323">
   <data key="d0">No Test</data>
@@ -23639,7 +23639,7 @@
   <data key="d3">16</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12940">
   <data key="d0">No Test</data>
@@ -24449,7 +24449,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10464">
   <data key="d0">No Test</data>
@@ -24467,7 +24467,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10466">
   <data key="d0">No Test</data>
@@ -24629,7 +24629,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10957">
   <data key="d0">No Test</data>
@@ -24791,7 +24791,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">SALESMAN</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3196">
   <data key="d0">No Test</data>
@@ -25763,7 +25763,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="253">
   <data key="d0">Positive</data>
@@ -25772,7 +25772,7 @@
   <data key="d3">28</data>
   <data key="d4">Junior High</data>
   <data key="d5">FORMER WAITRESS, PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1465">
   <data key="d0">No Test</data>
@@ -25808,7 +25808,7 @@
   <data key="d3">32</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10249">
   <data key="d0">No Test</data>
@@ -25934,7 +25934,7 @@
   <data key="d3">65</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11066">
   <data key="d0">No Test</data>
@@ -25943,7 +25943,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11067">
   <data key="d0">No Test</data>
@@ -26402,7 +26402,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3355">
   <data key="d0">No Test</data>
@@ -26474,7 +26474,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5675">
   <data key="d0">No Test</data>
@@ -26483,7 +26483,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">ASSIST THE HANDICAPPED</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13171">
   <data key="d0">No Test</data>
@@ -26510,7 +26510,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13379">
   <data key="d0">No Test</data>
@@ -26645,7 +26645,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">SEAMSTRESS</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5669">
   <data key="d0">No Test</data>
@@ -26654,7 +26654,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5670">
   <data key="d0">No Test</data>
@@ -26870,7 +26870,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10917">
   <data key="d0">No Test</data>
@@ -26879,7 +26879,7 @@
   <data key="d3">80</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10918">
   <data key="d0">No Test</data>
@@ -27122,7 +27122,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12000">
   <data key="d0">No Test</data>
@@ -27518,7 +27518,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3468">
   <data key="d0">No Test</data>
@@ -27545,7 +27545,7 @@
   <data key="d3">37</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11746">
   <data key="d0">No Test</data>
@@ -27707,7 +27707,7 @@
   <data key="d3">47</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="696">
   <data key="d0">No Test</data>
@@ -27734,7 +27734,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">MAID</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5325">
   <data key="d0">No Test</data>
@@ -28004,7 +28004,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4873">
   <data key="d0">No Test</data>
@@ -28184,7 +28184,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">WORKER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4235">
   <data key="d0">No Test</data>
@@ -28238,7 +28238,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12386">
   <data key="d0">No Test</data>
@@ -28256,7 +28256,7 @@
   <data key="d3">63</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12389">
   <data key="d0">No Test</data>
@@ -28265,7 +28265,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12390">
   <data key="d0">No Test</data>
@@ -28877,7 +28877,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEKEEPER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4169">
   <data key="d0">No Test</data>
@@ -28931,7 +28931,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEKEEPER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5454">
   <data key="d0">No Test</data>
@@ -28958,7 +28958,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">HOMEMAKER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12287">
   <data key="d0">No Test</data>
@@ -29012,7 +29012,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="443">
   <data key="d0">Negative</data>
@@ -29462,7 +29462,7 @@
   <data key="d3">16</data>
   <data key="d4">ID</data>
   <data key="d5">COUNTER CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1125">
   <data key="d0">No Test</data>
@@ -29597,7 +29597,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">PAINTER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13416">
   <data key="d0">No Test</data>
@@ -29606,7 +29606,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSE CLEANER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13417">
   <data key="d0">No Test</data>
@@ -29867,7 +29867,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3941">
   <data key="d0">No Test</data>
@@ -29903,7 +29903,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">SECRETARY, LEGAL</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5331">
   <data key="d0">No Test</data>
@@ -29912,7 +29912,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">HAIR STYLIST</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5332">
   <data key="d0">No Test</data>
@@ -29939,7 +29939,7 @@
   <data key="d3">49</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12111">
   <data key="d0">No Test</data>
@@ -29948,7 +29948,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12112">
   <data key="d0">No Test</data>
@@ -29957,7 +29957,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12113">
   <data key="d0">No Test</data>
@@ -29966,7 +29966,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13110">
   <data key="d0">No Test</data>
@@ -31001,7 +31001,7 @@
   <data key="d3">20</data>
   <data key="d4">High/GED</data>
   <data key="d5">FORMER YARD WORK, PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1674">
   <data key="d0">No Test</data>
@@ -31028,7 +31028,7 @@
   <data key="d3">16</data>
   <data key="d4">ID</data>
   <data key="d5">EXOTIC DANCER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1677">
   <data key="d0">No Test</data>
@@ -31352,7 +31352,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11462">
   <data key="d0">No Test</data>
@@ -31667,7 +31667,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">HOMEMAKER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2076">
   <data key="d0">No Test</data>
@@ -31721,7 +31721,7 @@
   <data key="d3">26</data>
   <data key="d4">OOD</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1466">
   <data key="d0">No Test</data>
@@ -31748,7 +31748,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">SALES, FLOWERS/VASES</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1469">
   <data key="d0">No Test</data>
@@ -31757,7 +31757,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">MOTHER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1470">
   <data key="d0">No Test</data>
@@ -31811,7 +31811,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">BAKER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4447">
   <data key="d0">No Test</data>
@@ -31847,7 +31847,7 @@
   <data key="d3">12</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12403">
   <data key="d0">No Test</data>
@@ -31856,7 +31856,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12404">
   <data key="d0">No Test</data>
@@ -31865,7 +31865,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="483">
   <data key="d0">Negative</data>
@@ -32333,7 +32333,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1888">
   <data key="d0">No Test</data>
@@ -32342,7 +32342,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">TEACHER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1889">
   <data key="d0">No Test</data>
@@ -32360,7 +32360,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">WAITRESS &amp; BARTENDER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1891">
   <data key="d0">No Test</data>
@@ -32639,7 +32639,7 @@
   <data key="d3">20</data>
   <data key="d4">ID</data>
   <data key="d5">EXOTIC DANCER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1358">
   <data key="d0">No Test</data>
@@ -32756,7 +32756,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3526">
   <data key="d0">No Test</data>
@@ -32828,7 +32828,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">PREP COOK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5171">
   <data key="d0">No Test</data>
@@ -32846,7 +32846,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">DIS/SSI</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5173">
   <data key="d0">No Test</data>
@@ -32855,7 +32855,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEKEEPER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5174">
   <data key="d0">No Test</data>
@@ -32864,7 +32864,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">NURSE'S AIDE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11787">
   <data key="d0">No Test</data>
@@ -32981,7 +32981,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">ARTIST</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1430">
   <data key="d0">No Test</data>
@@ -33125,7 +33125,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">ASSISTANT MANAGER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2565">
   <data key="d0">No Test</data>
@@ -33854,7 +33854,7 @@
   <data key="d3">36</data>
   <data key="d4">Junior High</data>
   <data key="d5">WAITRESS, UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2815">
   <data key="d0">No Test</data>
@@ -33899,7 +33899,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11305">
   <data key="d0">No Test</data>
@@ -33917,7 +33917,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1064">
   <data key="d0">No Test</data>
@@ -34007,7 +34007,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">COSMETOLOGIST</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="508">
   <data key="d0">Negative</data>
@@ -34088,7 +34088,7 @@
   <data key="d3">31</data>
   <data key="d4">Elementary</data>
   <data key="d5">HOMEMAKER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="781">
   <data key="d0">No Test</data>
@@ -34097,7 +34097,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEKEEPER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="797">
   <data key="d0">Negative</data>
@@ -34106,7 +34106,7 @@
   <data key="d3">33</data>
   <data key="d4">High/GED</data>
   <data key="d5">HOUSEKEEPER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1191">
   <data key="d0">Negative</data>
@@ -34250,7 +34250,7 @@
   <data key="d3">53</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10509">
   <data key="d0">Negative</data>
@@ -34421,7 +34421,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">COOK, DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4975">
   <data key="d0">No Test</data>
@@ -36185,7 +36185,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12538">
   <data key="d0">No Test</data>
@@ -36401,7 +36401,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13014">
   <data key="d0">No Test</data>
@@ -36446,7 +36446,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13334">
   <data key="d0">No Test</data>
@@ -36473,7 +36473,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13337">
   <data key="d0">No Test</data>
@@ -36554,7 +36554,7 @@
   <data key="d3">28</data>
   <data key="d4">High/GED</data>
   <data key="d5">COMPUTER ANALYST</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3356">
   <data key="d0">No Test</data>
@@ -36770,7 +36770,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10977">
   <data key="d0">No Test</data>
@@ -36905,7 +36905,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12651">
   <data key="d0">No Test</data>
@@ -38048,7 +38048,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">?, DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1757">
   <data key="d0">No Test</data>
@@ -38093,7 +38093,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4533">
   <data key="d0">No Test</data>
@@ -38498,7 +38498,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2562">
   <data key="d0">No Test</data>
@@ -38507,7 +38507,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4829">
   <data key="d0">No Test</data>
@@ -38543,7 +38543,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11106">
   <data key="d0">No Test</data>
@@ -38840,7 +38840,7 @@
   <data key="d3">17</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2373">
   <data key="d0">No Test</data>
@@ -40037,7 +40037,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10074">
   <data key="d0">OOD</data>
@@ -40046,7 +40046,7 @@
   <data key="d3">35</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10257">
   <data key="d0">No Test</data>
@@ -40055,7 +40055,7 @@
   <data key="d3">3</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10258">
   <data key="d0">No Test</data>
@@ -40073,7 +40073,7 @@
   <data key="d3">4</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10261">
   <data key="d0">Negative</data>
@@ -40082,7 +40082,7 @@
   <data key="d3">18</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="699">
   <data key="d0">Negative</data>
@@ -40325,7 +40325,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">MAID</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2768">
   <data key="d0">No Test</data>
@@ -40505,7 +40505,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="719">
   <data key="d0">Negative</data>
@@ -41036,7 +41036,7 @@
   <data key="d3">15</data>
   <data key="d4">Junior High</data>
   <data key="d5">STUDENT</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5029">
   <data key="d0">No Test</data>
@@ -41108,7 +41108,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12899">
   <data key="d0">No Test</data>
@@ -41117,7 +41117,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12900">
   <data key="d0">No Test</data>
@@ -41126,7 +41126,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12901">
   <data key="d0">No Test</data>
@@ -41135,7 +41135,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12903">
   <data key="d0">No Test</data>
@@ -41774,7 +41774,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10582">
   <data key="d0">No Test</data>
@@ -42026,7 +42026,7 @@
   <data key="d3">19</data>
   <data key="d4">High/GED</data>
   <data key="d5">FORMER CLERK, PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2459">
   <data key="d0">No Test</data>
@@ -42710,7 +42710,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">CLERK</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11928">
   <data key="d0">No Test</data>
@@ -42854,7 +42854,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5755">
   <data key="d0">No Test</data>
@@ -42917,7 +42917,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12666">
   <data key="d0">No Test</data>
@@ -42944,7 +42944,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12672">
   <data key="d0">No Test</data>
@@ -42962,7 +42962,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12674">
   <data key="d0">No Test</data>
@@ -42980,7 +42980,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">HAIR STYLIST</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12676">
   <data key="d0">No Test</data>
@@ -42989,7 +42989,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5"> </data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12677">
   <data key="d0">No Test</data>
@@ -43214,7 +43214,7 @@
   <data key="d3">37</data>
   <data key="d4">OOD</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10271">
   <data key="d0">OOD</data>
@@ -43232,7 +43232,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5">SIGN SHOP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="3603">
   <data key="d0">No Test</data>
@@ -43988,7 +43988,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">MANAGER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10589">
   <data key="d0">No Test</data>
@@ -44195,7 +44195,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5107">
   <data key="d0">No Test</data>
@@ -44348,7 +44348,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4215">
   <data key="d0">No Test</data>
@@ -44537,7 +44537,7 @@
   <data key="d3">31</data>
   <data key="d4">OOD</data>
   <data key="d5">COUNSELOR,DATA ENTRY OPERATOR</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2904">
   <data key="d0">No Test</data>
@@ -44564,7 +44564,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">WELFARE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2907">
   <data key="d0">No Test</data>
@@ -44573,7 +44573,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="2908">
   <data key="d0">No Test</data>
@@ -45068,7 +45068,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">LAUNDRESS</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4840">
   <data key="d0">No Test</data>
@@ -45734,7 +45734,7 @@
   <data key="d3">34</data>
   <data key="d4">High/GED</data>
   <data key="d5">EXOTIC DANCER, PRO*</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4006">
   <data key="d0">No Test</data>
@@ -45824,7 +45824,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12160">
   <data key="d0">No Test</data>
@@ -45833,7 +45833,7 @@
   <data key="d3">8</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12161">
   <data key="d0">No Test</data>
@@ -45977,7 +45977,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="887">
   <data key="d0">Negative</data>
@@ -46724,7 +46724,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">SOCIAL SECURITY, UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4376">
   <data key="d0">No Test</data>
@@ -46733,7 +46733,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">ELECTRONICS ASSEMBLER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4377">
   <data key="d0">No Test</data>
@@ -46751,7 +46751,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">WAITRESS</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4379">
   <data key="d0">No Test</data>
@@ -46805,7 +46805,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">OFFICE MANAGER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5468">
   <data key="d0">No Test</data>
@@ -46832,7 +46832,7 @@
   <data key="d3">52</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10190">
   <data key="d0">Negative</data>
@@ -46877,7 +46877,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">ELECTRONICS</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="918">
   <data key="d0">Negative</data>
@@ -47660,7 +47660,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">DRY CLEANER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="956">
   <data key="d0">Negative</data>
@@ -48101,7 +48101,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1747">
   <data key="d0">No Test</data>
@@ -48119,7 +48119,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="1750">
   <data key="d0">No Test</data>
@@ -48191,7 +48191,7 @@
   <data key="d3">43</data>
   <data key="d4">Collage Grad</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10513">
   <data key="d0">No Test</data>
@@ -48209,7 +48209,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12474">
   <data key="d0">No Test</data>
@@ -48479,7 +48479,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">SECRETARY</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4784">
   <data key="d0">No Test</data>
@@ -48488,7 +48488,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">SUPERVISOR</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12696">
   <data key="d0">No Test</data>
@@ -48812,7 +48812,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">BEAUTICIAN</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12480">
   <data key="d0">No Test</data>
@@ -48848,7 +48848,7 @@
   <data key="d3">2</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12484">
   <data key="d0">No Test</data>
@@ -48902,7 +48902,7 @@
   <data key="d3">62</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4584">
   <data key="d0">No Test</data>
@@ -49424,7 +49424,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">DDEALER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12578">
   <data key="d0">No Test</data>
@@ -49532,7 +49532,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">OWNER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4275">
   <data key="d0">No Test</data>
@@ -49622,7 +49622,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">HOUSEWIFE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5016">
   <data key="d0">No Test</data>
@@ -49685,7 +49685,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">MAID</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5023">
   <data key="d0">No Test</data>
@@ -49721,7 +49721,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="5203">
   <data key="d0">No Test</data>
@@ -49829,7 +49829,7 @@
   <data key="d3">47</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12868">
   <data key="d0">No Test</data>
@@ -49838,7 +49838,7 @@
   <data key="d3">88</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12869">
   <data key="d0">No Test</data>
@@ -49847,7 +49847,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12870">
   <data key="d0">No Test</data>
@@ -49865,7 +49865,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12872">
   <data key="d0">No Test</data>
@@ -49910,7 +49910,7 @@
   <data key="d3">50</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12877">
   <data key="d0">No Test</data>
@@ -49928,7 +49928,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12879">
   <data key="d0">No Test</data>
@@ -49955,7 +49955,7 @@
   <data key="d3">24</data>
   <data key="d4">High/GED</data>
   <data key="d5">TELEMARKETER,EXOTIC DANCER,PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4522">
   <data key="d0">No Test</data>
@@ -50027,7 +50027,7 @@
   <data key="d3">17</data>
   <data key="d4">ID</data>
   <data key="d5">STUDENT, MOTHER-TO-BE</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12466">
   <data key="d0">No Test</data>
@@ -50054,7 +50054,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">CASHIER</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4242">
   <data key="d0">Negative</data>
@@ -50162,7 +50162,7 @@
   <data key="d3">33</data>
   <data key="d4">High/GED</data>
   <data key="d5">GRAPHIC ARTIST,UNEMP</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4245">
   <data key="d0">Negative</data>
@@ -50180,7 +50180,7 @@
   <data key="d3">24</data>
   <data key="d4">OOD</data>
   <data key="d5">DATA ENTRY, EX-PRO,DIS-SSI</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4535">
   <data key="d0">No Test</data>
@@ -50513,7 +50513,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12862">
   <data key="d0">No Test</data>
@@ -50522,7 +50522,7 @@
   <data key="d3">49</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12863">
   <data key="d0">No Test</data>
@@ -50675,7 +50675,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12630">
   <data key="d0">No Test</data>
@@ -50684,7 +50684,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4268">
   <data key="d0">Negative</data>
@@ -51683,7 +51683,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">PRO</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="4477">
   <data key="d0">No Test</data>
@@ -52133,7 +52133,7 @@
   <data key="d3">40</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200038">
   <data key="d0">Negative</data>
@@ -52151,7 +52151,7 @@
   <data key="d3">34</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200041">
   <data key="d0">Negative</data>
@@ -52205,7 +52205,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200927">
   <data key="d0">No Test</data>
@@ -52214,7 +52214,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201367">
   <data key="d0">No Test</data>
@@ -52250,7 +52250,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201692">
   <data key="d0">No Test</data>
@@ -52259,7 +52259,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201693">
   <data key="d0">No Test</data>
@@ -52475,7 +52475,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200074">
   <data key="d0">No Test</data>
@@ -52691,7 +52691,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200092">
   <data key="d0">Negative</data>
@@ -52718,7 +52718,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200095">
   <data key="d0">Negative</data>
@@ -52727,7 +52727,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200096">
   <data key="d0">Negative</data>
@@ -52754,7 +52754,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200099">
   <data key="d0">No Test</data>
@@ -52826,7 +52826,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200893">
   <data key="d0">No Test</data>
@@ -52835,7 +52835,7 @@
   <data key="d3">53</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200896">
   <data key="d0">Negative</data>
@@ -52844,7 +52844,7 @@
   <data key="d3">46</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201670">
   <data key="d0">No Test</data>
@@ -52853,7 +52853,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201671">
   <data key="d0">No Test</data>
@@ -52952,7 +52952,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="100007">
   <data key="d0">Negative</data>
@@ -53168,7 +53168,7 @@
   <data key="d3">34</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200278">
   <data key="d0">No Test</data>
@@ -53204,7 +53204,7 @@
   <data key="d3">45</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200460">
   <data key="d0">Negative</data>
@@ -53276,7 +53276,7 @@
   <data key="d3">47</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201614">
   <data key="d0">No Test</data>
@@ -53312,7 +53312,7 @@
   <data key="d3">37</data>
   <data key="d4">Trade School</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201618">
   <data key="d0">Negative</data>
@@ -53411,7 +53411,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200418">
   <data key="d0">No Test</data>
@@ -53429,7 +53429,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200420">
   <data key="d0">No Test</data>
@@ -53447,7 +53447,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200422">
   <data key="d0">No Test</data>
@@ -53681,7 +53681,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202129">
   <data key="d0">No Test</data>
@@ -53690,7 +53690,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202130">
   <data key="d0">No Test</data>
@@ -53708,7 +53708,7 @@
   <data key="d3">47</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202764">
   <data key="d0">No Test</data>
@@ -53771,7 +53771,7 @@
   <data key="d3">43</data>
   <data key="d4">Trade School</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200868">
   <data key="d0">Positive</data>
@@ -53780,7 +53780,7 @@
   <data key="d3">38</data>
   <data key="d4">Trade School</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200870">
   <data key="d0">Negative</data>
@@ -53843,7 +53843,7 @@
   <data key="d3">42</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201002">
   <data key="d0">Negative</data>
@@ -53870,7 +53870,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202275">
   <data key="d0">Negative</data>
@@ -53897,7 +53897,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202278">
   <data key="d0">Negative</data>
@@ -53987,7 +53987,7 @@
   <data key="d3">27</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201272">
   <data key="d0">No Test</data>
@@ -54014,7 +54014,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201275">
   <data key="d0">No Test</data>
@@ -54023,7 +54023,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201276">
   <data key="d0">No Test</data>
@@ -54536,7 +54536,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202504">
   <data key="d0">No Test</data>
@@ -54689,7 +54689,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202744">
   <data key="d0">No Test</data>
@@ -54698,7 +54698,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202745">
   <data key="d0">No Test</data>
@@ -54716,7 +54716,7 @@
   <data key="d3">55</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200214">
   <data key="d0">No Test</data>
@@ -54761,7 +54761,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200219">
   <data key="d0">No Test</data>
@@ -54770,7 +54770,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200221">
   <data key="d0">No Test</data>
@@ -54779,7 +54779,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200222">
   <data key="d0">No Test</data>
@@ -54788,7 +54788,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200223">
   <data key="d0">No Test</data>
@@ -54824,7 +54824,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200227">
   <data key="d0">No Test</data>
@@ -54851,7 +54851,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200917">
   <data key="d0">No Test</data>
@@ -54905,7 +54905,7 @@
   <data key="d3">34</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201669">
   <data key="d0">No Test</data>
@@ -54950,7 +54950,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202209">
   <data key="d0">No Test</data>
@@ -54977,7 +54977,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202546">
   <data key="d0">No Test</data>
@@ -55112,7 +55112,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200930">
   <data key="d0">No Test</data>
@@ -55121,7 +55121,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200950">
   <data key="d0">No Test</data>
@@ -55274,7 +55274,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202837">
   <data key="d0">No Test</data>
@@ -55373,7 +55373,7 @@
   <data key="d3">55</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200119">
   <data key="d0">No Test</data>
@@ -55526,7 +55526,7 @@
   <data key="d3">36</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201749">
   <data key="d0">Negative</data>
@@ -55877,7 +55877,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200909">
   <data key="d0">No Test</data>
@@ -55931,7 +55931,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201860">
   <data key="d0">No Test</data>
@@ -55940,7 +55940,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202646">
   <data key="d0">No Test</data>
@@ -56138,7 +56138,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200202">
   <data key="d0">No Test</data>
@@ -56399,7 +56399,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200284">
   <data key="d0">No Test</data>
@@ -56408,7 +56408,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200285">
   <data key="d0">No Test</data>
@@ -56417,7 +56417,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200286">
   <data key="d0">No Test</data>
@@ -56939,7 +56939,7 @@
   <data key="d3">43</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201306">
   <data key="d0">Negative</data>
@@ -56948,7 +56948,7 @@
   <data key="d3">47</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201915">
   <data key="d0">No Test</data>
@@ -56957,7 +56957,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201916">
   <data key="d0">No Test</data>
@@ -56966,7 +56966,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202309">
   <data key="d0">No Test</data>
@@ -56975,7 +56975,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202666">
   <data key="d0">No Test</data>
@@ -56984,7 +56984,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200314">
   <data key="d0">No Test</data>
@@ -57083,7 +57083,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201489">
   <data key="d0">No Test</data>
@@ -57488,7 +57488,7 @@
   <data key="d3">36</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202173">
   <data key="d0">No Test</data>
@@ -57686,7 +57686,7 @@
   <data key="d3">40</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200354">
   <data key="d0">Negative</data>
@@ -57938,7 +57938,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201293">
   <data key="d0">No Test</data>
@@ -57947,7 +57947,7 @@
   <data key="d3">49</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201294">
   <data key="d0">No Test</data>
@@ -57956,7 +57956,7 @@
   <data key="d3">50</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201295">
   <data key="d0">No Test</data>
@@ -58523,7 +58523,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201832">
   <data key="d0">No Test</data>
@@ -58559,7 +58559,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200687">
   <data key="d0">No Test</data>
@@ -58577,7 +58577,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200690">
   <data key="d0">No Test</data>
@@ -58604,7 +58604,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202023">
   <data key="d0">No Test</data>
@@ -58802,7 +58802,7 @@
   <data key="d3">31</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200639">
   <data key="d0">No Test</data>
@@ -58838,7 +58838,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201424">
   <data key="d0">No Test</data>
@@ -58847,7 +58847,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201425">
   <data key="d0">No Test</data>
@@ -58874,7 +58874,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201428">
   <data key="d0">No Test</data>
@@ -58901,7 +58901,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202119">
   <data key="d0">No Test</data>
@@ -58910,7 +58910,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200491">
   <data key="d0">No Test</data>
@@ -58928,7 +58928,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200494">
   <data key="d0">Negative</data>
@@ -58946,7 +58946,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201660">
   <data key="d0">No Test</data>
@@ -58955,7 +58955,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201661">
   <data key="d0">No Test</data>
@@ -58973,7 +58973,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202158">
   <data key="d0">No Test</data>
@@ -58991,7 +58991,7 @@
   <data key="d3">27</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202160">
   <data key="d0">No Test</data>
@@ -59279,7 +59279,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202214">
   <data key="d0">No Test</data>
@@ -59324,7 +59324,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202691">
   <data key="d0">No Test</data>
@@ -59333,7 +59333,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200495">
   <data key="d0">No Test</data>
@@ -59855,7 +59855,7 @@
   <data key="d3">35</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200676">
   <data key="d0">No Test</data>
@@ -60242,7 +60242,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201983">
   <data key="d0">No Test</data>
@@ -60251,7 +60251,7 @@
   <data key="d3">34</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202356">
   <data key="d0">No Test</data>
@@ -60260,7 +60260,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202357">
   <data key="d0">No Test</data>
@@ -60269,7 +60269,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202358">
   <data key="d0">No Test</data>
@@ -60287,7 +60287,7 @@
   <data key="d3">29</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200736">
   <data key="d0">No Test</data>
@@ -60305,7 +60305,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202446">
   <data key="d0">No Test</data>
@@ -60314,7 +60314,7 @@
   <data key="d3">23</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202447">
   <data key="d0">No Test</data>
@@ -60323,7 +60323,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202448">
   <data key="d0">No Test</data>
@@ -61835,7 +61835,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200875">
   <data key="d0">No Test</data>
@@ -61871,7 +61871,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="200879">
   <data key="d0">Negative</data>
@@ -62024,7 +62024,7 @@
   <data key="d3">49</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201782">
   <data key="d0">Negative</data>
@@ -62285,7 +62285,7 @@
   <data key="d3">42</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201770">
   <data key="d0">No Test</data>
@@ -62807,7 +62807,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201056">
   <data key="d0">No Test</data>
@@ -62852,7 +62852,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201682">
   <data key="d0">Negative</data>
@@ -62861,7 +62861,7 @@
   <data key="d3">30</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201683">
   <data key="d0">No Test</data>
@@ -62915,7 +62915,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202614">
   <data key="d0">No Test</data>
@@ -63356,7 +63356,7 @@
   <data key="d3">47</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201031">
   <data key="d0">Negative</data>
@@ -63383,7 +63383,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201034">
   <data key="d0">No Test</data>
@@ -63509,7 +63509,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202423">
   <data key="d0">No Test</data>
@@ -63554,7 +63554,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202702">
   <data key="d0">No Test</data>
@@ -63563,7 +63563,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202703">
   <data key="d0">No Test</data>
@@ -63572,7 +63572,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201016">
   <data key="d0">No Test</data>
@@ -63671,7 +63671,7 @@
   <data key="d3">42</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201130">
   <data key="d0">No Test</data>
@@ -63716,7 +63716,7 @@
   <data key="d3">37</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201135">
   <data key="d0">No Test</data>
@@ -63725,7 +63725,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201041">
   <data key="d0">Negative</data>
@@ -63734,7 +63734,7 @@
   <data key="d3">50</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201042">
   <data key="d0">Negative</data>
@@ -63788,7 +63788,7 @@
   <data key="d3">38</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202047">
   <data key="d0">No Test</data>
@@ -64112,7 +64112,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201467">
   <data key="d0">No Test</data>
@@ -64121,7 +64121,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201468">
   <data key="d0">No Test</data>
@@ -64130,7 +64130,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201469">
   <data key="d0">No Test</data>
@@ -64139,7 +64139,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201470">
   <data key="d0">Negative</data>
@@ -64148,7 +64148,7 @@
   <data key="d3">39</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201471">
   <data key="d0">No Test</data>
@@ -64202,7 +64202,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201969">
   <data key="d0">No Test</data>
@@ -64265,7 +64265,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201102">
   <data key="d0">No Test</data>
@@ -64274,7 +64274,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201103">
   <data key="d0">No Test</data>
@@ -64598,7 +64598,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201865">
   <data key="d0">No Test</data>
@@ -64607,7 +64607,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202384">
   <data key="d0">No Test</data>
@@ -64634,7 +64634,7 @@
   <data key="d3">58</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201119">
   <data key="d0">Negative</data>
@@ -64643,7 +64643,7 @@
   <data key="d3">42</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201120">
   <data key="d0">No Test</data>
@@ -64787,7 +64787,7 @@
   <data key="d3">64</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201152">
   <data key="d0">No Test</data>
@@ -64805,7 +64805,7 @@
   <data key="d3">72</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201154">
   <data key="d0">No Test</data>
@@ -64850,7 +64850,7 @@
   <data key="d3">52</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201142">
   <data key="d0">No Test</data>
@@ -64859,7 +64859,7 @@
   <data key="d3">59</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202500">
   <data key="d0">No Test</data>
@@ -65381,7 +65381,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201394">
   <data key="d0">No Test</data>
@@ -65462,7 +65462,7 @@
   <data key="d3">33</data>
   <data key="d4">Trade School</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201256">
   <data key="d0">Negative</data>
@@ -65642,7 +65642,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201266">
   <data key="d0">No Test</data>
@@ -65651,7 +65651,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201267">
   <data key="d0">No Test</data>
@@ -65660,7 +65660,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201268">
   <data key="d0">No Test</data>
@@ -65669,7 +65669,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201269">
   <data key="d0">No Test</data>
@@ -65687,7 +65687,7 @@
   <data key="d3">20</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201258">
   <data key="d0">No Test</data>
@@ -65795,7 +65795,7 @@
   <data key="d3">35</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201485">
   <data key="d0">No Test</data>
@@ -66488,7 +66488,7 @@
   <data key="d3">34</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202043">
   <data key="d0">Negative</data>
@@ -66506,7 +66506,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202045">
   <data key="d0">Negative</data>
@@ -66515,7 +66515,7 @@
   <data key="d3">44</data>
   <data key="d4">Collage Grad</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202496">
   <data key="d0">No Test</data>
@@ -66623,7 +66623,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202709">
   <data key="d0">No Test</data>
@@ -66632,7 +66632,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202710">
   <data key="d0">No Test</data>
@@ -66641,7 +66641,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202711">
   <data key="d0">No Test</data>
@@ -66776,7 +66776,7 @@
   <data key="d3">40</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201564">
   <data key="d0">No Test</data>
@@ -66821,7 +66821,7 @@
   <data key="d3">40</data>
   <data key="d4">Undergrad</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202089">
   <data key="d0">Negative</data>
@@ -66830,7 +66830,7 @@
   <data key="d3">36</data>
   <data key="d4">Undergrad</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202411">
   <data key="d0">No Test</data>
@@ -66839,7 +66839,7 @@
   <data key="d3">20</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202412">
   <data key="d0">No Test</data>
@@ -66848,7 +66848,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202413">
   <data key="d0">No Test</data>
@@ -67469,7 +67469,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201620">
   <data key="d0">No Test</data>
@@ -67523,7 +67523,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201627">
   <data key="d0">No Test</data>
@@ -67577,7 +67577,7 @@
   <data key="d3">43</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201839">
   <data key="d0">No Test</data>
@@ -67586,7 +67586,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201840">
   <data key="d0">No Test</data>
@@ -67604,7 +67604,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201842">
   <data key="d0">No Test</data>
@@ -67721,7 +67721,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202054">
   <data key="d0">No Test</data>
@@ -67766,7 +67766,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202731">
   <data key="d0">No Test</data>
@@ -67775,7 +67775,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202732">
   <data key="d0">No Test</data>
@@ -67820,7 +67820,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202737">
   <data key="d0">No Test</data>
@@ -67829,7 +67829,7 @@
   <data key="d3">29</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202738">
   <data key="d0">No Test</data>
@@ -67838,7 +67838,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202048">
   <data key="d0">No Test</data>
@@ -67955,7 +67955,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201761">
   <data key="d0">No Test</data>
@@ -67964,7 +67964,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201762">
   <data key="d0">No Test</data>
@@ -68126,7 +68126,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201787">
   <data key="d0">No Test</data>
@@ -68144,7 +68144,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201789">
   <data key="d0">No Test</data>
@@ -68153,7 +68153,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="201791">
   <data key="d0">No Test</data>
@@ -68666,7 +68666,7 @@
   <data key="d3">36</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202037">
   <data key="d0">No Test</data>
@@ -68711,7 +68711,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202042">
   <data key="d0">No Test</data>
@@ -68720,7 +68720,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202470">
   <data key="d0">No Test</data>
@@ -68738,7 +68738,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202472">
   <data key="d0">No Test</data>
@@ -68756,7 +68756,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202035">
   <data key="d0">No Test</data>
@@ -68792,7 +68792,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202717">
   <data key="d0">No Test</data>
@@ -68801,7 +68801,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202718">
   <data key="d0">No Test</data>
@@ -68810,7 +68810,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202719">
   <data key="d0">No Test</data>
@@ -68828,7 +68828,7 @@
   <data key="d3">36</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202721">
   <data key="d0">No Test</data>
@@ -68837,7 +68837,7 @@
   <data key="d3">-9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202057">
   <data key="d0">No Test</data>
@@ -68873,7 +68873,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202188">
   <data key="d0">No Test</data>
@@ -68882,7 +68882,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="202189">
   <data key="d0">No Test</data>
@@ -69413,7 +69413,7 @@
   <data key="d3">33</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300020">
   <data key="d0">Negative</data>
@@ -69494,7 +69494,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400881">
   <data key="d0">No Test</data>
@@ -69503,7 +69503,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400882">
   <data key="d0">No Test</data>
@@ -69521,7 +69521,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400884">
   <data key="d0">No Test</data>
@@ -69548,7 +69548,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400887">
   <data key="d0">No Test</data>
@@ -69566,7 +69566,7 @@
   <data key="d3">33</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300047">
   <data key="d0">Negative</data>
@@ -69575,7 +69575,7 @@
   <data key="d3">33</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300048">
   <data key="d0">Negative</data>
@@ -69656,7 +69656,7 @@
   <data key="d3">38</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400099">
   <data key="d0">No Test</data>
@@ -69827,7 +69827,7 @@
   <data key="d3">41</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400086">
   <data key="d0">No Test</data>
@@ -69962,7 +69962,7 @@
   <data key="d3">37</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400109">
   <data key="d0">No Test</data>
@@ -70034,7 +70034,7 @@
   <data key="d3">64</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400126">
   <data key="d0">No Test</data>
@@ -70232,7 +70232,7 @@
   <data key="d3">23</data>
   <data key="d4">Freshman Col</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300031">
   <data key="d0">Negative</data>
@@ -70250,7 +70250,7 @@
   <data key="d3">39</data>
   <data key="d4">Trade School</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300033">
   <data key="d0">Negative</data>
@@ -70259,7 +70259,7 @@
   <data key="d3">63</data>
   <data key="d4">Elementary</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300036">
   <data key="d0">Negative</data>
@@ -70484,7 +70484,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400227">
   <data key="d0">No Test</data>
@@ -70493,7 +70493,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300183">
   <data key="d0">No Test</data>
@@ -70727,7 +70727,7 @@
   <data key="d3">26</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400285">
   <data key="d0">No Test</data>
@@ -70790,7 +70790,7 @@
   <data key="d3">51</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401565">
   <data key="d0">No Test</data>
@@ -70808,7 +70808,7 @@
   <data key="d3">16</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401567">
   <data key="d0">No Test</data>
@@ -70817,7 +70817,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401569">
   <data key="d0">No Test</data>
@@ -70826,7 +70826,7 @@
   <data key="d3">20</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401570">
   <data key="d0">No Test</data>
@@ -70853,7 +70853,7 @@
   <data key="d3">20</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300042">
   <data key="d0">Negative</data>
@@ -70916,7 +70916,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400329">
   <data key="d0">No Test</data>
@@ -70934,7 +70934,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400331">
   <data key="d0">No Test</data>
@@ -71006,7 +71006,7 @@
   <data key="d3">50</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400346">
   <data key="d0">No Test</data>
@@ -71096,7 +71096,7 @@
   <data key="d3">19</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400380">
   <data key="d0">No Test</data>
@@ -71105,7 +71105,7 @@
   <data key="d3">18</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401966">
   <data key="d0">No Test</data>
@@ -71249,7 +71249,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401976">
   <data key="d0">No Test</data>
@@ -71276,7 +71276,7 @@
   <data key="d3">27</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400390">
   <data key="d0">No Test</data>
@@ -71483,7 +71483,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300052">
   <data key="d0">Negative</data>
@@ -71960,7 +71960,7 @@
   <data key="d3">52</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400516">
   <data key="d0">No Test</data>
@@ -72140,7 +72140,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401606">
   <data key="d0">No Test</data>
@@ -72707,7 +72707,7 @@
   <data key="d3">47</data>
   <data key="d4">Trade School</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400687">
   <data key="d0">No Test</data>
@@ -72734,7 +72734,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400690">
   <data key="d0">No Test</data>
@@ -73004,7 +73004,7 @@
   <data key="d3">22</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400742">
   <data key="d0">No Test</data>
@@ -73418,7 +73418,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400963">
   <data key="d0">No Test</data>
@@ -73472,7 +73472,7 @@
   <data key="d3">24</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="402001">
   <data key="d0">No Test</data>
@@ -73670,7 +73670,7 @@
   <data key="d3">39</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="400951">
   <data key="d0">No Test</data>
@@ -73679,7 +73679,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="401100">
   <data key="d0">No Test</data>
@@ -73697,7 +73697,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="300153">
   <data key="d0">Negative</data>
@@ -74246,7 +74246,7 @@
   <data key="d3">18</data>
   <data key="d4">Junior High</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10083">
   <data key="d0">Negative</data>
@@ -76082,7 +76082,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10468">
   <data key="d0">No Test</data>
@@ -76109,7 +76109,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10479">
   <data key="d0">No Test</data>
@@ -76118,7 +76118,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10484">
   <data key="d0">No Test</data>
@@ -76676,7 +76676,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10630">
   <data key="d0">No Test</data>
@@ -76811,7 +76811,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10656">
   <data key="d0">No Test</data>
@@ -76838,7 +76838,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10659">
   <data key="d0">No Test</data>
@@ -77648,7 +77648,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10811">
   <data key="d0">No Test</data>
@@ -77657,7 +77657,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10812">
   <data key="d0">No Test</data>
@@ -77666,7 +77666,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10813">
   <data key="d0">No Test</data>
@@ -77675,7 +77675,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10814">
   <data key="d0">No Test</data>
@@ -77684,7 +77684,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10815">
   <data key="d0">No Test</data>
@@ -77999,7 +77999,7 @@
   <data key="d3">53</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10866">
   <data key="d0">No Test</data>
@@ -78161,7 +78161,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10897">
   <data key="d0">No Test</data>
@@ -78206,7 +78206,7 @@
   <data key="d3">40</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10902">
   <data key="d0">No Test</data>
@@ -78224,7 +78224,7 @@
   <data key="d3">27</data>
   <data key="d4">High/GED</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10903">
   <data key="d0">No Test</data>
@@ -78260,7 +78260,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="10907">
   <data key="d0">No Test</data>
@@ -78665,7 +78665,7 @@
   <data key="d3">22</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11003">
   <data key="d0">No Test</data>
@@ -78773,7 +78773,7 @@
   <data key="d3">52</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11023">
   <data key="d0">No Test</data>
@@ -80681,7 +80681,7 @@
   <data key="d3">25</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11421">
   <data key="d0">No Test</data>
@@ -81086,7 +81086,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11501">
   <data key="d0">No Test</data>
@@ -81320,7 +81320,7 @@
   <data key="d3">32</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11555">
   <data key="d0">No Test</data>
@@ -81329,7 +81329,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11558">
   <data key="d0">No Test</data>
@@ -81698,7 +81698,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11655">
   <data key="d0">No Test</data>
@@ -82616,7 +82616,7 @@
   <data key="d3">13</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11858">
   <data key="d0">No Test</data>
@@ -82625,7 +82625,7 @@
   <data key="d3">21</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11860">
   <data key="d0">No Test</data>
@@ -82634,7 +82634,7 @@
   <data key="d3">30</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="11868">
   <data key="d0">No Test</data>
@@ -83741,7 +83741,7 @@
   <data key="d3">53</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12135">
   <data key="d0">No Test</data>
@@ -83795,7 +83795,7 @@
   <data key="d3">43</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12141">
   <data key="d0">No Test</data>
@@ -83813,7 +83813,7 @@
   <data key="d3">33</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12146">
   <data key="d0">No Test</data>
@@ -83822,7 +83822,7 @@
   <data key="d3">45</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12148">
   <data key="d0">No Test</data>
@@ -84128,7 +84128,7 @@
   <data key="d3">44</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12236">
   <data key="d0">No Test</data>
@@ -86036,7 +86036,7 @@
   <data key="d3">39</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12881">
   <data key="d0">No Test</data>
@@ -86054,7 +86054,7 @@
   <data key="d3">28</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12883">
   <data key="d0">No Test</data>
@@ -86063,7 +86063,7 @@
   <data key="d3">46</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12884">
   <data key="d0">No Test</data>
@@ -86072,7 +86072,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12885">
   <data key="d0">No Test</data>
@@ -86081,7 +86081,7 @@
   <data key="d3">42</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12886">
   <data key="d0">No Test</data>
@@ -86153,7 +86153,7 @@
   <data key="d3">35</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12897">
   <data key="d0">No Test</data>
@@ -86162,7 +86162,7 @@
   <data key="d3">38</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12902">
   <data key="d0">No Test</data>
@@ -86270,7 +86270,7 @@
   <data key="d3">9</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="12917">
   <data key="d0">No Test</data>
@@ -86603,7 +86603,7 @@
   <data key="d3">20</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13000">
   <data key="d0">No Test</data>
@@ -86621,7 +86621,7 @@
   <data key="d3">50</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13010">
   <data key="d0">No Test</data>
@@ -86648,7 +86648,7 @@
   <data key="d3">48</data>
   <data key="d4">ID</data>
   <data key="d5">missing (out of design)</data>
-  <data key="d6">1</data>
+  <data key="d6">0</data>
 </node>
 <node id="13017">
   <data key="d0">No Test</data>
